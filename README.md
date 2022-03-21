@@ -1,4 +1,4 @@
 # travel-journal-exercise
 A front-end project to pratice React props.
 
-![](landpage.png)
+![](src/images/landpage.png)
